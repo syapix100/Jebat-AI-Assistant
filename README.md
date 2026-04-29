@@ -18,7 +18,7 @@ This project serves as a practical application of my transition into **AI Develo
 - **Development Environment:** VS Code, Git, Windows 11
 
 ## 📈 Learning Journey
-Building Jebat allowed me to master several core engineering concepts:
+Building Jebat allowed me to understand several core engineering concepts:
 1. **API & Model Integration:** Understanding how to communicate with local LLM endpoints.
 2. **Error Handling:** Managing hardware interrupts and microphone sensitivity issues.
 3. **Version Control:** Implementing professional Git workflows to track feature development.
